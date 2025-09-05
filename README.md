@@ -1,11 +1,10 @@
 ## Oiii! Eu sou a Nathaly😊
 
 Bem vindo ao meu perfil do GitHub!<br>
-Sou entusiasta da tecnologia, apaixonada por desenvolvimento e automação com Python 🐍.
-Atualmente curso Análise e Desenvolvimento de Sistemas 💻 e estou sempre aprendendo novas linguagens e ferramentas ⚡ com o objetivo de criar soluções que facilitem o dia a dia das pessoas.
+Sou entusiasta da tecnologia, apaixonada por desenvolvimento em Python 🐍.
+Atualmente curso Análise e Desenvolvimento de Sistemas e estou sempre aprendendo novas linguagens e ferramentas com o objetivo de criar soluções que facilitem o dia a dia das pessoas.
 - 👩‍💻 **Linguagem:** Python
 - ❤️ **Interesses:** Desenvolvimento de Sistemas e Automatização
-- 📚 Atualmente aprendendo C e Java
 #
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" />
