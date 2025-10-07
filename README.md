@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Nathaly😊
 
 Bem vindo ao meu perfil do GitHub!<br>
-Sou entusiasta da tecnologia, apaixonada por desenvolvimento de sistemas e programação.
+Sou entusiasta da tecnologia, apaixonada por desenvolvimento de sistemas e programação💻.
 Atualmente curso Análise e Desenvolvimento de Sistemas e estou sempre aprendendo novas linguagens e ferramentas com o objetivo de criar soluções que facilitem o dia a dia das pessoas.
 - 👩‍💻 **Linguagem:** Python, Java, C
 - ❤️ **Interesses:** Desenvolvimento de Sistemas e Automatização
